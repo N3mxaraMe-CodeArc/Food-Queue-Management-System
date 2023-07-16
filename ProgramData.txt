@@ -1,0 +1,5 @@
+Burger count : 45;
+
+Cashier 1 Customers And their Burger Count: RFGN GFN = 2 , 
+Cashier 2 Customers And their Burger Count: FGN GNY = 6 , GFNF RTFGHR = 8 , FDSNT RDGFNB = 3 , 
+Cashier 3 Customers And their Burger Count: TFGN DFGNC = 6 , RFGN STGN = 2 , FRGN FRGTNH = 2 , RFGN GNF = 5 , 
